@@ -1,6 +1,5 @@
 # 💫 About Me:
-👩‍💻 Hey there! I'm Shravani<br>🎓 A 3rd-year Computer Science & Electronics student, currently exploring the infinite world of code!<br>🤖 Machine Learning Enthusiast | I get lost in the code and found in the future!<br>💡 Passionate about turning data into insights and creating solutions that make an impact.<br>🔍 When I'm not coding, I'm probably debugging or thinking about my next big project!<br>✨ Always learning, always growing — let’s create the future together, one line of code at a time!
-
+👩‍💻 Hey there! I'm Shravani<br>🎓 A 3rd-year Computer Science & Electronics student, currently exploring the infinite world of code!<br>🤖 Machine Learning Enthusiast | I get lost in the code and found in the future!<br>💡 Passionate about turning data into insights and creating solutions that make an impact.<br>🔍 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/shravani-more-511430247) 

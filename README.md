@@ -18,11 +18,10 @@
 <img src="https://github-readme-stats-emins-projects-84f18f4f.vercel.app/api?username=Shravani-1325&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&include_all_commits=true&theme=dark" width="430" align="right"/>
 <img src="assest/left1.gif" width="380" />
 
-<br/><br/>
-
-#### **⚙️ ~ Tech stack**
-
 <br/>
+
+### **⚙️ ~ Tech stack**
+
 <p align = "left>
 
 ![Python](https://img.shields.io/badge/Python-2d6a4f?style=for-the-badge&logo=python&logoColor=white&labelColor=1b4332)
@@ -32,6 +31,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-2d6a4f?style=for-the-badge&logo=python&logoColor=white&labelColor=1b4332)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2d6a4f?style=for-the-badge&logo=python&logoColor=white&labelColor=1b4332)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-2d6a4f?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=1b4332)
+<br/>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2d6a4f?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1b4332)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2d6a4f?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1b4332)
 ![Keras](https://img.shields.io/badge/Keras-2d6a4f?style=for-the-badge&logo=keras&logoColor=white&labelColor=1b4332)

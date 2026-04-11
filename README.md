@@ -40,5 +40,4 @@
 [![Kaggle](https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shravani1324)
 </p>
 <img src="assest/left_banner.gif" width="100%" align="left" />
-<img src="assest/cat.gif" width="100%" align="right" />
 </div>

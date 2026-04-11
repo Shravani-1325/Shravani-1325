@@ -20,9 +20,11 @@
 
 <br/>
 
+<img src="assest/right_tree.gif" width="280" align="right" />
+
 ### **⚙️ ~ Tech stack**
 
-<p align = "left>
+<p align="left">
 
 ![Python](https://img.shields.io/badge/Python-2d6a4f?style=for-the-badge&logo=python&logoColor=white&labelColor=1b4332)
 ![NumPy](https://img.shields.io/badge/NumPy-2d6a4f?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1b4332)
@@ -35,7 +37,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2d6a4f?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1b4332)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2d6a4f?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1b4332)
 ![Keras](https://img.shields.io/badge/Keras-2d6a4f?style=for-the-badge&logo=keras&logoColor=white&labelColor=1b4332)
-<img src="assest/right_tree.gif" width="280" align="right" />
 
 </p>
 

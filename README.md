@@ -20,7 +20,7 @@
 
 <br/>
 
-<img src="assest/right_tree.gif" width="300" align="right" />
+<img src="assest/right_tree.gif" width="330" align="right" />
 
 ### **⚙️ ~ Tech stack**
 
@@ -40,7 +40,7 @@
 
 </p>
 
-<img src="assest/deer.gif" width="390" align="left"/>
+<img src="assest/deer.gif" width="300" align="left"/>
 
 <br/><br/>
 

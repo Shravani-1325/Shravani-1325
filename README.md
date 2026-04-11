@@ -38,9 +38,6 @@
 
 </p>
 
-
-<br/><br/>
-
 <img src="assest/right_tree.gif" width="280" align="right" />
 <img src="assest/left3.gif" width="390" align="left"/>
 

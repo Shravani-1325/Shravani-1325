@@ -21,11 +21,11 @@
 <br/><br/>
 
 <img src="https://github-readme-stats-emins-projects-84f18f4f.vercel.app/api?username=Shravani-1325&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&include_all_commits=true&theme=dark" width="330" />
-<img src="assest/cat.gif" width="260" align="right" />
+<img src="assest/left2.gif" width="270" align="right" />
 
 <br/><br/>
 
-<img src="assest/left1.gif" width="500" />
+<img src="assest/left3.gif" width="500" />
 
 <br/><br/>
 
@@ -35,8 +35,6 @@
 
 </p>
 
-<div align="center">
-<img src="assest/deer.gif" width="90" />&nbsp;&nbsp;&nbsp;<img src="assest/left2.gif" width="90" />
-</div>
+<img src="assest/left_banner.gif" width="100%" />
 
 </div>

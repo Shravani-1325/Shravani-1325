@@ -2,9 +2,9 @@
 
 <div>
 
-<img width="340" src="assest/right1.gif" align="right" />
+<img width="350" src="assest/right1.gif" align="right" />
 <br/>
-<img src="assest/left_tree.gif" width="500" />
+<img src="assest/left_tree.gif" width="400" />
 <br/><br/>
 
 - 🌿 Name: ***Shravani More***
@@ -15,21 +15,21 @@
 
 <br/>
 
-<img src="assest/deer.gif" width="200" align="right" />
-<img src="assest/right_tree.gif" width="500" />
+<img src="assest/deer.gif" width="250" align="right" />
+<img src="assest/right_tree.gif" width="400" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats-emins-projects-84f18f4f.vercel.app/api?username=Shravani-1325&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&include_all_commits=true&theme=dark" width="330" />
-<img src="assest/left2.gif" width="270" align="right" />
+<img src="https://github-readme-stats-emins-projects-84f18f4f.vercel.app/api?username=Shravani-1325&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&include_all_commits=true&theme=dark" width="400" />
+<img src="assest/left2.gif" width="370" align="right" />
 
 <br/><br/>
 
-<img src="assest/left3.gif" width="500" />
+<img src="assest/left3.gif" width="400" />
 
 <br/><br/>
 
-<p align="center">
+<p align="left">
 
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shravani-1325)&nbsp;[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravani25/)&nbsp;[![Kaggle](https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shravani1324)
 

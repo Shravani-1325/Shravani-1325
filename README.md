@@ -2,7 +2,7 @@
 
 <div>
 
-<img width="350" src="assest/right1.gif" align="right" />
+<img width="370" src="assest/right1.gif" align="right" />
 <br/>
 <img src="assest/left_tree.gif" width="400" />
 <br/><br/>
@@ -20,7 +20,7 @@
 
 <br/>
 
-<img src="assest/right_tree.gif" width="330" align="right" />
+<img src="assest/right_tree.gif" width="340" align="right" />
 
 ### **⚙️ ~ Tech stack**
 
@@ -40,7 +40,7 @@
 
 </p>
 
-<img src="assest/deer.gif" width="300" align="left"/>
+<img src="assest/deer.gif" width="290" align="left"/>
 
 <br/><br/>
 

@@ -15,8 +15,8 @@
 
 <br/>
 
-<img src="assest/deer.gif" width="300" align="right" />
-<img src="assest/right_tree.gif" width="370" />
+<img src="assest/deer.gif" width="280" align="right" />
+<img src="assest/right_tree.gif" width="360" />
 
 <br/><br/>
 
@@ -24,7 +24,7 @@
 <img src="assest/left3.gif" width="390"  align="left"/>
 <br/><br/>
 
-<p align="right">
+<p align="left">
   
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shravani-1325)&nbsp;[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravani25/)&nbsp;[![Kaggle](https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shravani1324)
 

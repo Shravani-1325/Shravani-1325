@@ -34,9 +34,10 @@
 ![Keras](https://img.shields.io/badge/Keras-2d6a4f?style=for-the-badge&logo=keras&logoColor=white&labelColor=1b4332)
 
 </p>
-<img src="assest/right_tree.gif" width="300" align="left" />
-
+<img src="assest/right_tree.gif" width="300" align="right" />
+<br/><br/><br/>
 <p align="right">
+
   
 ### **🍃 ~ Socials**
   

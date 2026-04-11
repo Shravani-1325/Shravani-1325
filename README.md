@@ -1,119 +1,111 @@
+<!-- 🌌 BANNER -->
+<p align="center">
+  <img src="asset/banner.gif" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Shravani</h1>
+<h3 align="center">ML | AI Enthusiast 🚀</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-💙-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-green?style=for-the-badge" />
+</p>
+
+---
+
+## 🌿 About Me
+
 <div align="center">
-  <img src="assest/banner.gif" alt="Banner" width="100%"/>
+
+<table>
+<tr>
+<td width="50%">
+
+👩‍💻 **Shravani More**  
+🎓 Computer Science & Electronics Student  
+💡 Fell in love with Machine Learning  
+✨ Turning data into magic  
+
+<img src="asset/left_tree.gif" width="60" />
+<img src="asset/left1.gif" width="60" />
+<img src="asset/left2.gif" width="60" />
+
+</td>
+
+<td width="50%">
+<img src="asset/right1.gif" width="100%" />
+</td>
+
+</tr>
+</table>
+
 </div>
 
-<br/>
+---
 
-<div align="center">
+## ⚙️ Tech Stack
 
-```
-> turning data into magic_
-```
+<p align="center">
+  <img src="asset/right_tree.gif" width="80" />
+  <img src="asset/deer.gif" width="80" />
+  <img src="asset/cat.gif" width="80" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+<p align="center">
 
-</div>
+💻 **Languages & Tools**
 
-<br/>
+</p>
+
+<p align="center">
+Python • NumPy • Pandas • Matplotlib • Scikit-learn  
+TensorFlow • PyTorch • OpenCV • Git • Streamlit  
+</p>
 
 ---
 
-### 🌿 About me
+## 📊 GitHub Statistics
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  
+<!-- Dark Mode -->
+<img src="https://github-readme-stats-emins-projects-84f18f4f.vercel.app/api?username=Shravani-1325&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&include_all_commits=true&theme=dark#gh-dark-mode-only" />
 
-**Shravani More**
-<br/>Computer Science & Electronics Student
-<br/>fell in love with machine learning 🤍
+<!-- Light Mode -->
+<img src="https://github-readme-stats-emins-projects-84f18f4f.vercel.app/api?username=Shravani-1325&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&include_all_commits=true&theme=default#gh-light-mode-only" />
 
-<br/><br/>
-
-<img src="assest/left1.gif" width="60px"/>&nbsp;<img src="assest/left2.gif" width="60px"/>&nbsp;<img src="assest/left_tree.gif" width="60px"/>
-
-<br/><br/>
-
-<img src="assest/left1.gif" width="100%"/>
-
-</td>
-<td width="50%" valign="top" align="right">
-
-<img src="assest/right1.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🔗 Coding Profiles & Socials
 
-### 📊 Statistics
-
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats-emins-projects-84f18f4f.vercel.app/api?username=Shravani-1325&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&include_all_commits=true&theme=dark" width="100%"/>
+<p align="center">
+  
+<a href="https://github.com/Shravani-1325">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://github-readme-stats-emins-projects-84f18f4f.vercel.app/api?username=Shravani-1325&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&include_all_commits=true&theme=default" width="100%"/>
+<a href="https://www.linkedin.com/in/shravani25/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<br/><br/>
+<a href="https://www.kaggle.com/shravani1324">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
+</a>
 
-<img src="assest/deer.gif" width="90px"/>
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Tech Stack
-
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Keras](https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-<br/>
-
-<img src="assest/right_tree.gif" width="55px"/>&nbsp;<img src="assest/left_tree.gif" width="55px"/>&nbsp;<img src="assest/right1.gif" width="55px"/>
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🎬 Ending Note
 
-### 🌐 Coding Profile & Socials
+<p align="center">
+  <img src="asset/right2.gif" width="300"/>
+</p>
 
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shravani-1325)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravani25/)
-<br/>
-[![Kaggle](https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shravani1324)
-
-</td>
-<td width="50%" valign="top" align="right">
-
-<img src="assest/cat.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
-
----
+<p align="center">
+✨ *"Still learning, still building, still dreaming..."* ✨
+</p>

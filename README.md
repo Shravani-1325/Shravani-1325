@@ -2,7 +2,7 @@
 
 <div>
 
-<img width="380" src="assest/right1.gif" align="right" />
+<img width="400" src="assest/right1.gif" align="right" />
 <br/>
 <img src="assest/left_tree.gif" width="400" />
 <br/><br/>
@@ -40,7 +40,7 @@
 
 </p>
 
-<img src="assest/deer.gif" width="270" align="left"/>
+<img src="assest/deer.gif" width="250" align="left"/>
 
 <br/><br/>
 

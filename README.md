@@ -16,7 +16,7 @@
 <br/>
 
 <img src="assest/deer.gif" width="300" align="right" />
-<img src="assest/right_tree.gif" width="400" />
+<img src="assest/right_tree.gif" width="370" />
 
 <br/><br/>
 

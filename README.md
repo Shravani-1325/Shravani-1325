@@ -4,9 +4,9 @@
  
 <div align="center">
 <div>  
-<img width="337" src="assest/left_tree.gif" align=right />
+<img width="337" src="assest/right1.gif" align=right />
 <br/>
-<img src="assest/right1.gif" width="488" />
+<img src="assest/left_tree.gif" width="488" />
 <br/>
 <br/>
 <br/>
@@ -24,7 +24,7 @@
 <img src="assest/deer.gif" align=right />
 <br/>
 <br/>
-<img src="assest/left1.gif" width="488" />
+<img src="assest/right_tree.gif" width="488" />
 <br/>
 <br/>
   
@@ -40,4 +40,5 @@
 [![Kaggle](https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shravani1324)
 </p>
 <img src="assest/left_banner.gif" width="100%" align="left" />
+<img src="assest/cat.gif" width="100%" align="right" />
 </div>

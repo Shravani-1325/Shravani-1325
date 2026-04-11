@@ -36,11 +36,10 @@
 
 <img src="assest/right_tree.gif" width="400" align="left" />
 
-
-
+</div>
 <p align="right">
 <br/>
-
+  
 ### **🍃 ~ Socials**
   
 [![GitHub](https://img.shields.io/badge/-GitHub-1b4332?style=flat&logo=github&logoColor=white&color=2d6a4f)](https://github.com/Shravani-1325)&nbsp;
@@ -48,5 +47,3 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-1b4332?style=flat&logo=kaggle&logoColor=white&color=2d6a4f)](https://www.kaggle.com/shravani1324)
 
 </p>
-
-</div>

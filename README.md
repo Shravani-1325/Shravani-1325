@@ -13,8 +13,7 @@
 
 <br/>
 <p align="right">
-<br/><br/><br/><br/><br/>
-  
+ 
 ### **🍃 ~ Socials**
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1b4332?style=flat&logo=linkedin&logoColor=white&color=2d6a4f)](https://www.linkedin.com/in/shravani25/)&nbsp;

@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-**`⚙️ ~ tech stack`**
+#### **⚙️ ~ Tech stack**
 
 <br/>
 <p align = "left>
@@ -28,6 +28,7 @@
 ![Python](https://img.shields.io/badge/Python-2d6a4f?style=for-the-badge&logo=python&logoColor=white&labelColor=1b4332)
 ![NumPy](https://img.shields.io/badge/NumPy-2d6a4f?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1b4332)
 ![Pandas](https://img.shields.io/badge/Pandas-2d6a4f?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1b4332)
+<br/>
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-2d6a4f?style=for-the-badge&logo=python&logoColor=white&labelColor=1b4332)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2d6a4f?style=for-the-badge&logo=python&logoColor=white&labelColor=1b4332)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-2d6a4f?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=1b4332)

@@ -14,7 +14,7 @@
 <br/>
 <img src="https://github-readme-stats-emins-projects-84f18f4f.vercel.app/api?username=Shravani-1325&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&include_all_commits=true&theme=dark" width="430" align="right"/>
 <img src="assest/left1.gif" width="380" />
-<img src="assest/deer.gif" width="270" align="right"/>
+<img src="assest/cat.gif" width="270" align="right"/>
 
 
 ### **⚙️ ~ Tech stack**
@@ -34,7 +34,7 @@
 ![Keras](https://img.shields.io/badge/Keras-2d6a4f?style=for-the-badge&logo=keras&logoColor=white&labelColor=1b4332)
 
 </p>
-<img src="assest/right_tree.gif" width="350" align="left" />
+<img src="assest/deer.gif" width="350" align="left" />
 <br/>
   
 ### **🍃 ~ Socials**

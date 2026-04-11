@@ -2,7 +2,7 @@
 
 <div>
 
-<img width="370" src="assest/right1.gif" align="right" />
+<img width="380" src="assest/right1.gif" align="right" />
 <br/>
 <img src="assest/left_tree.gif" width="400" />
 <br/><br/>
@@ -10,7 +10,7 @@
 - 🌿 Name: ***Shravani More***
 - 📚 Studying: ***Computer Science & Electronics***
 - 💬 Languages: ***Python***
-- 🤖 Machine Learning: ***NumPy***, ***Pandas***, ***Matplotlib***, ***Seaborn***, ***Scikit-learn***
+- 🤖 Machine Learning: ***NumPy***, ***Pandas***, ***Matplotlib***, ***Scikit-learn***
 - 🔥 Deep Learning: ***TensorFlow***, ***PyTorch***
 
 <br/>
@@ -40,7 +40,7 @@
 
 </p>
 
-<img src="assest/deer.gif" width="290" align="left"/>
+<img src="assest/deer.gif" width="270" align="left"/>
 
 <br/><br/>
 

@@ -23,6 +23,7 @@
 **`⚙️ ~ tech stack`**
 
 <br/>
+<p align = "left>
 
 ![Python](https://img.shields.io/badge/Python-2d6a4f?style=for-the-badge&logo=python&logoColor=white&labelColor=1b4332)
 ![NumPy](https://img.shields.io/badge/NumPy-2d6a4f?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1b4332)
@@ -33,9 +34,9 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2d6a4f?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1b4332)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2d6a4f?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1b4332)
 ![Keras](https://img.shields.io/badge/Keras-2d6a4f?style=for-the-badge&logo=keras&logoColor=white&labelColor=1b4332)
-![Jupyter](https://img.shields.io/badge/Jupyter-2d6a4f?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=1b4332)
-![Git](https://img.shields.io/badge/Git-2d6a4f?style=for-the-badge&logo=git&logoColor=white&labelColor=1b4332)
-![VS Code](https://img.shields.io/badge/VS%20Code-2d6a4f?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1b4332)
+
+</p>
+
 
 <br/><br/>
 

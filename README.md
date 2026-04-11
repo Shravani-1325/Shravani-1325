@@ -1,148 +1,137 @@
+<!-- banner -->
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/2.gif"/>
-</div>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/leaf1.gif" width="40"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/leaf1.gif" width="40"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/leaf1.gif" width="40"/>
-
-```
- ██████  ██   ██ ██████   █████  ██    ██  █████  ███    ██ ██
-██       ██   ██ ██   ██ ██   ██ ██    ██ ██   ██ ████   ██ ██
-╚█████╗  ███████ ██████  ███████ ██    ██ ███████ ██ ██  ██ ██
-     ██  ██   ██ ██   ██ ██   ██  ██  ██  ██   ██ ██  ██ ██ ██
-╚█████╔╝ ██   ██ ██   ██ ██   ██   ████   ██   ██ ██   ████ ██
-```
-
-**`> ML/AI Enthusiast · Data Explorer · Code Adventurer_`**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/-%20LinkedIn-1a3a2a?style=flat-square&logo=linkedin&logoColor=90EE90)](https://linkedin.com/in/shravani25)
-[![Profile Views](https://visitcount.itsvg.in/api?id=Shravani-1325&icon=5&color=6&label=visitors&style=flat-square)](https://visitcount.itsvg.in)
-[![GitHub followers](https://img.shields.io/github/followers/Shravani-1325?style=flat-square&color=1a3a2a&labelColor=0d2018&logo=github&logoColor=90EE90)](https://github.com/Shravani-1325)
-
-</div>
-
----
-
-<img align="right" src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/deer.gif" width="180"/>
-
-### &nbsp;`{ about_me }`
-
-```python
-class Shravani:
-    degree   = "CS & Electronics (3rd year)"
-    location = "Pune, India 🌿"
-    passion  = ["Machine Learning", "Data Science", "AI"]
-    learning = ["Deep Learning", "Neural Networks"]
-    hobbies  = ["coding", "exploring datasets", "pixel art"]
-    motto    = "turning data into magic ✨"
-```
-
-<br clear="right"/>
-
----
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/leaf2.gif" width="30"/>
-&nbsp; <b><code>  quest log  </code></b> &nbsp;
-<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/leaf2.gif" width="30"/>
-</div>
-
-```
-  [x]  survived 3rd year of CS & Electronics
-  [x]  fell in love with machine learning
-  [x]  built first ML model 🌱
-  [ ]  master deep learning from scratch
-  [ ]  contribute to open source AI project
-  [ ]  build something that actually changes lives ✨
-```
-
----
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/leaf1.gif" width="30"/>
-&nbsp; <b><code>  tech arsenal  </code></b> &nbsp;
-<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/leaf1.gif" width="30"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/banner.gif"/>
 </div>
 
 <br/>
 
-<div align="center">
+<!-- about + night gif -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-![Python](https://img.shields.io/badge/Python-1a3a2a?style=flat-square&logo=python&logoColor=90EE90)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a3a2a?style=flat-square&logo=tensorflow&logoColor=90EE90)
-![PyTorch](https://img.shields.io/badge/PyTorch-1a3a2a?style=flat-square&logo=pytorch&logoColor=90EE90)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1a3a2a?style=flat-square&logo=scikit-learn&logoColor=90EE90)
-![NumPy](https://img.shields.io/badge/NumPy-1a3a2a?style=flat-square&logo=numpy&logoColor=90EE90)
-![Pandas](https://img.shields.io/badge/Pandas-1a3a2a?style=flat-square&logo=pandas&logoColor=90EE90)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1a3a2a?style=flat-square&logo=matplotlib&logoColor=90EE90)
-![Plotly](https://img.shields.io/badge/Plotly-1a3a2a?style=flat-square&logo=plotly&logoColor=90EE90)
-![MySQL](https://img.shields.io/badge/MySQL-1a3a2a?style=flat-square&logo=mysql&logoColor=90EE90)
-![HTML5](https://img.shields.io/badge/HTML5-1a3a2a?style=flat-square&logo=html5&logoColor=90EE90)
-![Adobe](https://img.shields.io/badge/Adobe-1a3a2a?style=flat-square&logo=adobe&logoColor=90EE90)
+### 🌿 About me
 
-</div>
-
----
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/leaf2.gif" width="30"/>
-&nbsp; <b><code>  stats board  </code></b> &nbsp;
-<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/leaf2.gif" width="30"/>
-</div>
+**Shravani More**
+Computer Science & Electronics Student
+fell in love with machine learning ✨
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shravani-1325&theme=merko&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1f0f&title_color=90EE90&icon_color=56ab2f&text_color=a8d8a8&ring_color=56ab2f" width="49%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Shravani-1325&theme=merko&hide_border=true&background=0d1f0f&ring=90EE90&fire=56ab2f&currStreakLabel=90EE90&sideLabels=a8d8a8&dates=a8d8a8" width="49%"/>
-</div>
+<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/left1.gif" width="55"/>
+<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/left2.gif" width="55"/>
+<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/right1.gif" width="55"/>
+<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/right_tree.gif" width="55"/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravani-1325&theme=merko&hide_border=true&layout=compact&bg_color=0d1f0f&title_color=90EE90&text_color=a8d8a8" width="40%"/>
-</div>
+<br/><br/>
 
----
+<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/cat.gif" width="340"/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/leaf1.gif" width="30"/>
-&nbsp; <b><code>  wisdom of the day  </code></b> &nbsp;
-<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/leaf1.gif" width="30"/>
-</div>
+</td>
+<td width="50%" valign="top" align="center">
 
-<br/>
+<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/left_tree.gif" width="340"/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0d1f0f&border_color=2d6a2d&text_color=a8d8a8&author_color=90EE90"/>
-</div>
+<br/><br/>
 
----
+### ⚙️ Tech Stack
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/leaf2.gif" width="30"/>
-&nbsp; <b><code>  top contributions  </code></b> &nbsp;
-<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/leaf2.gif" width="30"/>
-</div>
+![Python](https://img.shields.io/badge/Python-0d1f0f?style=flat-square&logo=python&logoColor=90EE90)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1f0f?style=flat-square&logo=tensorflow&logoColor=90EE90)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1f0f?style=flat-square&logo=pytorch&logoColor=90EE90)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1f0f?style=flat-square&logo=scikit-learn&logoColor=90EE90)
+![NumPy](https://img.shields.io/badge/NumPy-0d1f0f?style=flat-square&logo=numpy&logoColor=90EE90)
+![Pandas](https://img.shields.io/badge/Pandas-0d1f0f?style=flat-square&logo=pandas&logoColor=90EE90)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1f0f?style=flat-square&logo=matplotlib&logoColor=90EE90)
+![Plotly](https://img.shields.io/badge/Plotly-0d1f0f?style=flat-square&logo=plotly&logoColor=90EE90)
+![MySQL](https://img.shields.io/badge/MySQL-0d1f0f?style=flat-square&logo=mysql&logoColor=90EE90)
+![HTML5](https://img.shields.io/badge/HTML5-0d1f0f?style=flat-square&logo=html5&logoColor=90EE90)
 
 <br/>
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Shravani-1325&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0d1f0f&title_color=90EE90&text_color=a8d8a8"/>
-</div>
+<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/left1.gif" width="50"/>
+<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/right1.gif" width="50"/>
+<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/left2.gif" width="50"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Statistics
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shravani-1325&count_private=true&show_icons=true&include_all_commits=true&theme=merko&bg_color=0d1f0f&title_color=90EE90&icon_color=56ab2f&text_color=a8d8a8&hide_border=true#gh-dark-mode-only" width="340"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shravani-1325&count_private=true&show_icons=true&include_all_commits=true&theme=default&hide_border=true#gh-light-mode-only" width="340"/>
+</a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/deer.gif" width="160"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/right_tree.gif" width="340"/>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 💻 Coding profiles & socials
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1f0f?style=for-the-badge&logo=linkedin&logoColor=90EE90)](https://www.linkedin.com/in/shravani25/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-0d1f0f?style=for-the-badge&logo=kaggle&logoColor=90EE90)](https://www.kaggle.com/shravani1324)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1f0f?style=for-the-badge&logo=github&logoColor=90EE90)](https://github.com/Shravani-1325)
+
+<br/>
+
+**Top Languages**
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravani-1325&layout=compact&theme=merko&bg_color=0d1f0f&title_color=90EE90&text_color=a8d8a8&hide_border=true#gh-dark-mode-only" width="300"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravani-1325&layout=compact&theme=default&hide_border=true#gh-light-mode-only" width="300"/>
+</a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/left_tree.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/deer.gif" width="80"/>
-  <br/>
-  <sub><code> crafted with 🌿 + curiosity · shravani-1325 </code></sub>
-  <br/><br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Shravani-1325&theme=merko&hide_border=true&background=0d1f0f&ring=90EE90&fire=56ab2f&currStreakLabel=90EE90&sideLabels=a8d8a8&dates=a8d8a8" width="60%"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/left1.gif" width="45"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/left2.gif" width="45"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/right1.gif" width="45"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/Shravani-1325/Shravani-1325/master/assest/right_tree.gif" width="45"/>
+
+<br/>
+
+```
+  > crafted with 🌿 + curiosity · shravani-1325 · turning data into magic_
+```
+
+[![visitors](https://visitcount.itsvg.in/api?id=Shravani-1325&icon=5&color=6&label=visitors&style=flat-square)](https://visitcount.itsvg.in)
+
 </div>

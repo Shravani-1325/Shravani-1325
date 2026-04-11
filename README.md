@@ -34,10 +34,11 @@
 
 </p>
 
-<img src="assest/deer.gif" width="250" align="left"/>
-<br/><br/>
+<img src="assest/deer.gif" width="270" align="left"/>
+
 
 ### **🍃 ~ Socials**
+
 <p align="right">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-1b4332?style=flat&logo=github&logoColor=white&color=2d6a4f)](https://github.com/Shravani-1325)&nbsp;

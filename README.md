@@ -24,7 +24,7 @@
 <img src="assest/left3.gif" width="430"  align="left"/>
 
 
-<p align="left">
+<p align="right">
 
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shravani-1325)&nbsp;[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravani25/)&nbsp;[![Kaggle](https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shravani1324)
 

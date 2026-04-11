@@ -41,15 +41,15 @@
 </p>
 
 <img src="assest/deer.gif" width="250" align="left"/>
+<br/>
+<img src="assest/left_3.gif" width="250" align="right"/>
 
 <br/><br/>
 
 <p align="left">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shravani-1325)&nbsp;[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravani25/)&nbsp;[![Kaggle](https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shravani1324)
+[![GitHub](https://img.shields.io/badge/-GitHub-1b4332?style=flat&logo=github&logoColor=white&color=2d6a4f)](https://github.com/Shravani-1325)&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1b4332?style=flat&logo=linkedin&logoColor=white&color=2d6a4f)](https://www.linkedin.com/in/shravani25/)&nbsp;[![Kaggle](https://img.shields.io/badge/-Kaggle-1b4332?style=flat&logo=kaggle&logoColor=white&color=2d6a4f)](https://www.kaggle.com/shravani1324)
 
 </p>
-
-<img src="assest/left_banner.gif" width="100%" />
 
 </div>

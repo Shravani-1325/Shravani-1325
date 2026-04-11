@@ -34,16 +34,13 @@
 ![Keras](https://img.shields.io/badge/Keras-2d6a4f?style=for-the-badge&logo=keras&logoColor=white&labelColor=1b4332)
 
 </p>
-<img src="assest/right_tree.gif" width="350" align="right" />
+<img src="assest/right_tree.gif" width="350" align="left" />
 <br/>
-<p align="right">
   
 ### **🍃 ~ Socials**
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1b4332?style=flat&logo=linkedin&logoColor=white&color=2d6a4f)](https://www.linkedin.com/in/shravani25/)&nbsp;
 [![Kaggle](https://img.shields.io/badge/-Kaggle-1b4332?style=flat&logo=kaggle&logoColor=white&color=2d6a4f)](https://www.kaggle.com/shravani1324)
-
-</p>
 
 
 </div>

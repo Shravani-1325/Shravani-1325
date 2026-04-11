@@ -42,7 +42,7 @@
 
 <img src="assest/deer.gif" width="250" align="left"/>
 <br/>
-<img src="assest/left_3.gif" width="250" align="right"/>
+<img src="assest/left3.gif" width="250" align="right"/>
 
 <br/><br/>
 

@@ -14,6 +14,8 @@
 <br/>
 <img src="https://github-readme-stats-emins-projects-84f18f4f.vercel.app/api?username=Shravani-1325&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&include_all_commits=true&theme=dark" width="430" align="right"/>
 <img src="assest/left1.gif" width="380" />
+<img src="assest/deer.gif" width="300" align="right"/>
+
 
 ### **⚙️ ~ Tech stack**
 
@@ -32,13 +34,10 @@
 ![Keras](https://img.shields.io/badge/Keras-2d6a4f?style=for-the-badge&logo=keras&logoColor=white&labelColor=1b4332)
 
 </p>
+<img src="assest/right_tree.gif" width="400" align="right" />
 
-<img src="assest/deer.gif" width="400" align="right"/>
-<img src="assest/right_tree.gif" width="400" align="left" />
-
-<br/><br/><br/><br/>
 <p align="right">
-
+  
 ### **🍃 ~ Socials**
   
 [![GitHub](https://img.shields.io/badge/-GitHub-1b4332?style=flat&logo=github&logoColor=white&color=2d6a4f)](https://github.com/Shravani-1325)&nbsp;
@@ -46,5 +45,6 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-1b4332?style=flat&logo=kaggle&logoColor=white&color=2d6a4f)](https://www.kaggle.com/shravani1324)
 
 </p>
+
 
 </div>

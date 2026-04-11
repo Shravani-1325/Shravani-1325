@@ -13,6 +13,7 @@
 
 <br/>
 <img src="https://github-readme-stats-emins-projects-84f18f4f.vercel.app/api?username=Shravani-1325&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&include_all_commits=true&theme=dark" width="430" align="right"/>
+
 <img src="assest/left1.gif" width="380" />
 
 ### **⚙️ ~ Tech stack**
@@ -33,9 +34,8 @@
 
 </p>
 
-<img src="assest/deer.gif" width="300" align="left"/>
-<img src="assest/right_tree.gif" width="400" align="right" />
-
+<img src="assest/deer.gif" width="300" align="right"/>
+<img src="assest/right_tree.gif" width="400" align="left" />
 <p align="right">
 <br/><br/><br/><br/>
 

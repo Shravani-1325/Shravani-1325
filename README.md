@@ -21,6 +21,7 @@
 <br/>
 
 <img src="assest/right_tree.gif" width="340" align="right" />
+<img src="assest/left3.gif" width="260" align="right" />
 
 ### **⚙️ ~ Tech stack**
 
@@ -41,15 +42,17 @@
 </p>
 
 <img src="assest/deer.gif" width="250" align="left"/>
-<br/>
-<img src="assest/left3.gif" width="250" align="right"/>
 
-<br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 
-<p align="left">
+<div align="center">
+
+### **🌐 ~ Socials**
 
 [![GitHub](https://img.shields.io/badge/-GitHub-1b4332?style=flat&logo=github&logoColor=white&color=2d6a4f)](https://github.com/Shravani-1325)&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1b4332?style=flat&logo=linkedin&logoColor=white&color=2d6a4f)](https://www.linkedin.com/in/shravani25/)&nbsp;[![Kaggle](https://img.shields.io/badge/-Kaggle-1b4332?style=flat&logo=kaggle&logoColor=white&color=2d6a4f)](https://www.kaggle.com/shravani1324)
 
-</p>
+</div>
+
+<img src="assest/left_banner.gif" width="100%" />
 
 </div>

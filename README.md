@@ -37,7 +37,7 @@
 <img src="assest/right_tree.gif" width="400" align="left" />
 
 </div>
-<p align="right">
+<p align="center">
 <br/>
   
 ### **🍃 ~ Socials**

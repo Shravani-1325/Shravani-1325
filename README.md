@@ -35,10 +35,10 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2d6a4f?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1b4332)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2d6a4f?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1b4332)
 ![Keras](https://img.shields.io/badge/Keras-2d6a4f?style=for-the-badge&logo=keras&logoColor=white&labelColor=1b4332)
+<img src="assest/right_tree.gif" width="280" align="right" />
 
 </p>
 
-<img src="assest/right_tree.gif" width="280" align="right" />
 <img src="assest/left3.gif" width="390" align="left"/>
 
 <br/><br/>

@@ -2,6 +2,8 @@
   <img src="assest/banner.gif" alt="Banner" width="100%"/>
 </div>
 
+<br/>
+
 <div align="center">
 
 ```
@@ -15,26 +17,30 @@
 
 </div>
 
+<br/>
+
 ---
+
+### 🌿 About me
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌿 About me
-
 **Shravani More**
-Computer Science & Electronics Student
-fell in love with machine learning 🤍
+<br/>Computer Science & Electronics Student
+<br/>fell in love with machine learning 🤍
 
-<img src="assest/left1.gif" width="60px"/> <img src="assest/left2.gif" width="60px"/> <img src="assest/left_tree.gif" width="60px"/>
+<br/><br/>
 
-<br/>
+<img src="assest/left1.gif" width="60px"/>&nbsp;<img src="assest/left2.gif" width="60px"/>&nbsp;<img src="assest/left_tree.gif" width="60px"/>
 
-<img src="assest/left1.gif" width="100%" style="border-radius:8px"/>
+<br/><br/>
+
+<img src="assest/left1.gif" width="100%"/>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="right">
 
 <img src="assest/right1.gif" width="100%"/>
 
@@ -51,31 +57,36 @@ fell in love with machine learning 🤍
 ### 📊 Statistics
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats-emins-projects-84f18f4f.vercel.app/api?username=Shravani-1325&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&include_all_commits=true&theme=dark#gh-dark-mode-only" width="100%"/>
+  <img src="https://github-readme-stats-emins-projects-84f18f4f.vercel.app/api?username=Shravani-1325&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&include_all_commits=true&theme=dark" width="100%"/>
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://github-readme-stats-emins-projects-84f18f4f.vercel.app/api?username=Shravani-1325&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&include_all_commits=true&theme=default#gh-light-mode-only" width="100%"/>
+  <img src="https://github-readme-stats-emins-projects-84f18f4f.vercel.app/api?username=Shravani-1325&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&include_all_commits=true&theme=default" width="100%"/>
 </a>
+
+<br/><br/>
+
+<img src="assest/deer.gif" width="90px"/>
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚙️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Keras](https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <br/>
 
-<img src="assest/right_tree.gif" width="80px"/> <img src="assest/right1.gif" width="80px"/>
+<img src="assest/right_tree.gif" width="55px"/>&nbsp;<img src="assest/left_tree.gif" width="55px"/>&nbsp;<img src="assest/right1.gif" width="55px"/>
 
 </td>
 </tr>
@@ -89,12 +100,15 @@ fell in love with machine learning 🤍
 
 ### 🌐 Coding Profile & Socials
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shravani-1325)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravani25/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shravani1324)
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shravani-1325)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravani25/)
+<br/>
+[![Kaggle](https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shravani1324)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="right">
 
 <img src="assest/cat.gif" width="100%"/>
 
@@ -103,11 +117,3 @@ fell in love with machine learning 🤍
 </table>
 
 ---
-
-<div align="center">
-  <img src="assest/deer.gif" width="120px"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assest/cat.gif" width="120px"/>
-  <br/><br/>
-  <img src="assest/banner.gif" width="100%" alt="footer"/>
-</div>

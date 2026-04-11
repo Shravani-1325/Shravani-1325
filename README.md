@@ -20,42 +20,22 @@
 
 <br/><br/>
 
-<!-- ══════════════ TECH STACK ══════════════ -->
-
 **`⚙️ ~ tech stack`**
 
 <br/>
 
-**› Languages**
-<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-<br/>
-
-**› Machine Learning**
-<br/>
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-<br/>
-
-**› Deep Learning**
-<br/>
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-
-<br/>
-
-**› Tools & Environment**
-<br/>
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2d6a4f?style=for-the-badge&logo=python&logoColor=white&labelColor=1b4332)
+![NumPy](https://img.shields.io/badge/NumPy-2d6a4f?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1b4332)
+![Pandas](https://img.shields.io/badge/Pandas-2d6a4f?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1b4332)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-2d6a4f?style=for-the-badge&logo=python&logoColor=white&labelColor=1b4332)
+![Seaborn](https://img.shields.io/badge/Seaborn-2d6a4f?style=for-the-badge&logo=python&logoColor=white&labelColor=1b4332)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-2d6a4f?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=1b4332)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2d6a4f?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1b4332)
+![PyTorch](https://img.shields.io/badge/PyTorch-2d6a4f?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1b4332)
+![Keras](https://img.shields.io/badge/Keras-2d6a4f?style=for-the-badge&logo=keras&logoColor=white&labelColor=1b4332)
+![Jupyter](https://img.shields.io/badge/Jupyter-2d6a4f?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=1b4332)
+![Git](https://img.shields.io/badge/Git-2d6a4f?style=for-the-badge&logo=git&logoColor=white&labelColor=1b4332)
+![VS Code](https://img.shields.io/badge/VS%20Code-2d6a4f?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1b4332)
 
 <br/><br/>
 

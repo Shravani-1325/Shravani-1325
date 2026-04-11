@@ -6,7 +6,7 @@
 <div>  
 <img width="337" src="assest/left_tree.gif" align=right />
 <br/>
-<img src="assest/right1" width="488" />
+<img src="assest/right1.gif" width="488" />
 <br/>
 <br/>
 <br/>
